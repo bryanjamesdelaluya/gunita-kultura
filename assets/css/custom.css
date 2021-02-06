@@ -54,9 +54,10 @@
   }
 
   .nav-scroller .p-2 {
-      font-weight: bold;
-      font-size: 22px;
-      text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    color: #AC5330 !important;
   }
   
   .card-img-right {
@@ -146,3 +147,11 @@
       background-position: center;
       background-size: cover;
   }
+
+  .gk-primary {
+    color: #AC5330 !important;
+}
+.gk-primary:hover {
+    color: #EA8825 !important;
+}
+  
